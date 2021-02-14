@@ -16,3 +16,20 @@ first draft / list of software im interested in and/or iam using
 | [Linkbar](https://sourceforge.net/projects/linkbar/) | Windows UI Improevments | Create as many linkbars you need |   |
 | [balenaEtcher](https://www.balena.io/etcher/) | Windows Utilities | Flash OS images to SD cards & USB drives, safely and easily. Works maybe not for all BootImages | 5 |
 | [R-Linux](https://www.r-studio.com/free-linux-recovery-help/discscan.html) | Data Recovery (Linux & Windows) | FREEWARE Recovery Solution, experience great features, great results | 5 |
+
+list of heard names/solutions, maybe worth a look
+
+| Title | Cat | Notes | RATING |
+| --- | --- | --- | --- |
+| radicale  | (CalDAV/CardDAV) |   |   |
+| Seafile/Sparkleshare | Dateisync |  () |   |
+| Borgbackup | Backup |   |   |
+| Plex oder Emby |   | well known |   |
+| pihole+OpenVPN |   |   |   |
+| rancherOS |   |   |   |
+| Wekan | Kanban Board |   |   |
+| Collabra Online | Office  |   |   |
+| Portainer  
+Netdata  
+Tor-Proxy  
+Privoxy |   |   |   |
