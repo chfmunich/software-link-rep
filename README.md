@@ -21,15 +21,21 @@ list of heard names/solutions, maybe worth a look
 
 | Title | Cat | Notes | RATING |
 | --- | --- | --- | --- |
-| radicale  | (CalDAV/CardDAV) |   |   |
-| Seafile/Sparkleshare | Dateisync |  () |   |
+| radicale | (CalDAV/CardDAV) |   |   |
+| Seafile/Sparkleshare | Dateisync | () |   |
 | Borgbackup | Backup |   |   |
 | Plex oder Emby |   | well known |   |
 | pihole+OpenVPN |   |   |   |
 | rancherOS |   |   |   |
 | Wekan | Kanban Board |   |   |
-| Collabra Online | Office  |   |   |
-| Portainer  
-Netdata  
-Tor-Proxy  
-Privoxy |   |   |   |
+| Collabra Online | Office |   |   |
+| Portainer |   |   |   |
+| Netdata |   |   |   |
+| Tor-Proxy |   |   |   |
+| Privoxy |   |   |   |
+
+Some links for further research 
+
+*   [Nas Basic](https://www.elefacts.de/test-59-nas_basic_2.0__effizientes_selbstbau_nas_mit_4x_sata_im_mini_itx_format)
+*   [Home-Server](https://www.techgrube.de/tutorials/teil-1-selbstgebauter-homeservernas-die-hardwareauswahl)
+*   [Nextcloud auf Ubuntu-Server 18.04](https://decatec.de/home-server/nextcloud-auf-ubuntu-server-18-04-lts-mit-nginx-mariadb-php-lets-encrypt-redis-und-fail2ban/)
