@@ -33,7 +33,7 @@ first draft for software im interested in and/or iam using
 | Title                                                      | Notes                                                        |  RATING |
 | ---------------------------------------------------------- | -----                                                        | ------- | 
 | [TrueNAS / FreeNAS](https://www.truenas.com/freenas/)                   | Primus |  **?**  |
-| [OmniOS CE](https://omnios.org/)                   | tbd |  **5**  |
+| [OmniOS CE](https://omnios.org/)                                        | tbd |  **?**  |
 
 
 
