@@ -13,7 +13,8 @@ first draft / list of software im interested in and/or iam using
 | [Nextcloud](https://nextcloud.com/) | Private Cloud Plattform | The self-hosted productivity platform that keeps you in control seen: Calendar and Contacts Solution |   |
 | [VMware vSphere](https://my.vmware.com/de/web/vmware/evalcenter?p=vsphere-eval-7/) | Hypervisor | Primus |   |
 | [Proxmox VE](https://www.proxmox.com/de/proxmox-ve) | Hypervisor | Open-Source from Germany |   |
-| [Linkbar](https://sourceforge.net/projects/linkbar/) | Windows UI Improevments | Create as many linkbars you need |   |
+| [Microsoft PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) | Windows UI Improvements | Tiny tool but lots of them are useful |   |
+| [Linkbar](https://sourceforge.net/projects/linkbar/) | Windows UI Improvements | Create as many linkbars you need |   |
 | [balenaEtcher](https://www.balena.io/etcher/) | Windows Utilities | Flash OS images to SD cards & USB drives, safely and easily. Works maybe not for all BootImages | 5 |
 | [R-Linux](https://www.r-studio.com/free-linux-recovery-help/discscan.html) | Data Recovery (Linux & Windows) | FREEWARE Recovery Solution, experience great features, great results | 5 |
 
